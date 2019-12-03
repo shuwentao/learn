@@ -1,0 +1,136 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ArSize	test6/arrfun1.cpp	/^const int ArSize = 8 ;$/;"	v
+ArSize	test7/arrfun2.cpp	/^const int ArSize = 8 ;$/;"	v
+ArSize	test9/arrfun4.cpp	/^const int ArSize = 8;$/;"	v
+CC	test1/Makefile	/^CC = g++$/;"	m
+CC	test10/Makefile	/^CC = g++$/;"	m
+CC	test11/Makefile	/^CC = g++$/;"	m
+CC	test12/Makefile	/^CC = g++$/;"	m
+CC	test13/Makefile	/^CC = g++$/;"	m
+CC	test14/Makefile	/^CC = g++$/;"	m
+CC	test2/Makefile	/^CC = g++$/;"	m
+CC	test3/Makefile	/^CC = g++$/;"	m
+CC	test4/Makefile	/^CC = g++$/;"	m
+CC	test6/Makefile	/^CC = g++$/;"	m
+CC	test7/Makefile	/^CC = g++$/;"	m
+CC	test8/Makefile	/^CC = g++$/;"	m
+CC	test9/Makefile	/^CC = g++$/;"	m
+CFLAGS	test1/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test10/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test11/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test12/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test13/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test14/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test2/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test3/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test4/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test6/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test7/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test8/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+CFLAGS	test9/Makefile	/^CFLAGS= -pthread -fPIC $(COMMON_FLAGS) $(WARNINGS) -std=c++11 $(INCLUDEDIRS)$/;"	m
+INCLUDEDIRS	test1/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test10/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test11/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test12/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test13/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test14/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test2/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test3/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test4/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test6/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test7/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test8/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+INCLUDEDIRS	test9/Makefile	/^INCLUDEDIRS = -I ..\/cmdline\/$/;"	m
+Max	test8/arrfun3.cpp	/^const int Max = 5;$/;"	v
+Min_per_hr	test12/travel.cpp	/^const int Min_per_hr = 60;$/;"	v
+OBJ	test1/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test10/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test11/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test12/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test13/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test14/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test2/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test3/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test4/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test6/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test7/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test8/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+OBJ	test9/Makefile	/^OBJ=$(patsubst %.cpp,%.o,$(SRC))$/;"	m
+PROJ	test1/Makefile	/^PROJ=calling$/;"	m
+PROJ	test10/Makefile	/^PROJ=strgfun$/;"	m
+PROJ	test11/Makefile	/^PROJ=strgback$/;"	m
+PROJ	test12/Makefile	/^PROJ=travel$/;"	m
+PROJ	test13/Makefile	/^PROJ=atrctfun$/;"	m
+PROJ	test14/Makefile	/^PROJ=strctptr$/;"	m
+PROJ	test2/Makefile	/^PROJ=protos$/;"	m
+PROJ	test3/Makefile	/^PROJ=twoarg$/;"	m
+PROJ	test4/Makefile	/^PROJ=lotto$/;"	m
+PROJ	test6/Makefile	/^PROJ=arrfun1$/;"	m
+PROJ	test7/Makefile	/^PROJ=arrfun2$/;"	m
+PROJ	test8/Makefile	/^PROJ=arrfun3$/;"	m
+PROJ	test9/Makefile	/^PROJ=arrfun4$/;"	m
+SRC	test1/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test10/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test11/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test12/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test13/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test14/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test2/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test3/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test4/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test6/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test7/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test8/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+SRC	test9/Makefile	/^SRC=$(wildcard *.cpp)$/;"	m
+angle	test13/atrctfun.cpp	/^	double angle;$/;"	m	struct:polar	file:
+angle	test14/strctptr.cpp	/^	double angle;$/;"	m	struct:polar	file:
+buildstr	test11/strgback.cpp	/^char * buildstr(char c,int n)$/;"	f
+c_in_str	test10/strgfun.cpp	/^unsigned int c_in_str(const char * str, char ch)$/;"	f
+cheers	test2/protos.cpp	/^void cheers(int n)$/;"	f
+cube	test2/protos.cpp	/^double cube(double x)$/;"	f
+distance	test13/atrctfun.cpp	/^	double distance;$/;"	m	struct:polar	file:
+distance	test14/strctptr.cpp	/^	double distance;$/;"	m	struct:polar	file:
+fill_array	test8/arrfun3.cpp	/^int fill_array(double ar[],int limit)$/;"	f
+hours	test12/travel.cpp	/^	int hours;	$/;"	m	struct:travel_time	file:
+main	test1/calling.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test10/strgfun.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test11/strgback.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test12/travel.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test13/atrctfun.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test14/strctptr.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test2/protos.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test3/twoarg.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test4/lotto.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test6/arrfun1.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test7/arrfun2.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test8/arrfun3.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	test9/arrfun4.cpp	/^int main(int argc,char *argv[])$/;"	f
+mins	test12/travel.cpp	/^	int mins;$/;"	m	struct:travel_time	file:
+n_chars	test3/twoarg.cpp	/^void n_chars(char c,int n)$/;"	f
+polar	test13/atrctfun.cpp	/^struct polar$/;"	s	file:
+polar	test14/strctptr.cpp	/^struct polar$/;"	s	file:
+probability	test4/lotto.cpp	/^long double probability(unsigned numbers,unsigned picks)$/;"	f
+rect	test13/atrctfun.cpp	/^struct rect$/;"	s	file:
+rect	test14/strctptr.cpp	/^struct rect$/;"	s	file:
+rect_to_polar	test13/atrctfun.cpp	/^polar rect_to_polar(const * rect pxy,const polar * pda)$/;"	f
+rect_to_polar	test14/strctptr.cpp	/^polar rect_to_polar(rect xypos)$/;"	f
+revalue	test8/arrfun3.cpp	/^void revalue(double r,double ar[],int n)$/;"	f
+show_array	test8/arrfun3.cpp	/^void show_array(const double ar[],int n)$/;"	f
+show_polar	test13/atrctfun.cpp	/^void show_polar(polar dapos)$/;"	f
+show_polar	test14/strctptr.cpp	/^void show_polar(const polar * pda)$/;"	f
+show_time	test12/travel.cpp	/^void show_time(travel_time t)$/;"	f
+simple	test1/calling.cpp	/^void simple()$/;"	f
+sum	test12/travel.cpp	/^travel_time sum(travel_time t1,travel_time t2)$/;"	f
+sum_arr	test6/arrfun1.cpp	/^int sum_arr(int arr[],int n)$/;"	f
+sum_arr	test7/arrfun2.cpp	/^int sum_arr(int arr[],int n)$/;"	f
+sum_arr	test9/arrfun4.cpp	/^int sum_arr(const int * begin ,const int * end)$/;"	f
+travel_time	test12/travel.cpp	/^struct travel_time$/;"	s	file:
+x	test13/atrctfun.cpp	/^	double x;$/;"	m	struct:rect	file:
+x	test14/strctptr.cpp	/^	double x;$/;"	m	struct:rect	file:
+y	test13/atrctfun.cpp	/^	double y;$/;"	m	struct:rect	file:
+y	test14/strctptr.cpp	/^	double y;$/;"	m	struct:rect	file:
