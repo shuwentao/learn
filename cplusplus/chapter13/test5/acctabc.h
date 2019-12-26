@@ -3,11 +3,11 @@
 #define ACCTABC_H_
 #include <iostream>
 #include <string>
-class AccABC
+class AcctABC
 {
 private:
 	std::string fullName;
-	long accNum;
+	long acctNum;
 	double balance;
 protected:
 	struct Formatting
@@ -25,25 +25,32 @@ public:
 	virtual void Withdraw(double amt) = 0;
 	double Balance() const {return balance;};
 	virtual void ViewAcct() const = 0;
-	virtual ~AccABC();
+	virtual ~AcctABC(){};
 };
 
-class Brass : public AccABC
+class Brass : public AcctABC
 {
 public:
-	Brass(const std::string & s = "Nullbody",long an = -1,double bal = 0.0) : AccABC(s,an,bal){}
+	Brass(const std::string & s = "Nullbody",long an = -1,double bal = 0.0) : AcctABC(s,an,bal){}
 	virtual void Withdraw(double amt);
 	virtual void ViewAcct() const;
-	virtual ~Brass(){}	
+	virtual ~Brass(){};	
 };
 
-class BrassPlus : public AccABC
+class BrassPlus : public AcctABC
 {
 private:
 	double maxLoan;
 	double rate;
 	double owesBank;
 public:
-	BrassPlus();
+	BrassPlus(const std::string & s = "Nullbody",long an = -1,double bal = 0.0,double m1 = 500,double r = 0.10);
+	BrassPlus(const Brass & ba ,double m1 = 500,double r = 0.1);
+	virtual void ViewAcct() const;
+	virtual void Withdraw(double amt);
+	void ResetMax(double m) {maxLoan = m;};
+	void RestRate(double r) {rate = r;};
+	void ResetOwes(){owesBank = 0;};
 };
+
 #endif
